@@ -1,27 +1,20 @@
 <!-- Profile README for Jaijithraja C -->
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1200&q=80" alt="Tech Banner" width="100%"/>
+  
 </p>
 
-<h1 align="center">Hi, I'm Jaijithraja C 🚀</h1>
-
-<p align="center"><b>Aspiring Product Manager @ Microsoft & Tech Founder</b></p>
-<p align="center"><i>Building with Gen AI, Open Source, and Community</i></p>
+<h1 align="center">Hi, I'm Jaijithraja C</h1>
 
 <p align="center">
+  <b>Aspiring Product Manager @ Microsoft & Tech Founder</b><br/>
   <img src="https://img.shields.io/badge/Gen%20AI%20Developer-blueviolet?style=flat-square"/>
   <img src="https://img.shields.io/badge/Open%20Source%20Contributor-brightgreen?style=flat-square"/>
   <img src="https://img.shields.io/badge/Community%20Builder-orange?style=flat-square"/>
 </p>
 
-<hr style="border: none; height: 2px; background: linear-gradient(90deg, #6a11cb 0%, #2575fc 100%);"/>
-
 <p align="center">
-  <b>🌟 Quick Stats</b><br>
-  <img src="https://img.shields.io/badge/MLSA%20Visitors-360%2B-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Hackathon%20Wins-3-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Projects%20Shipped-4-green?style=flat-square"/>
+  <i>AI & Gen AI | Product Management | Space Tech | Open Source</i>
 </p>
 
 ---
@@ -32,6 +25,7 @@
 - <b>Wiki Hackathon</b> – Runner-Up
 - <b>StartupTN</b> – Top 5 Winner
 - <b>Open Source Contributor</b> (GitHub, Wikimedia Commons)
+- <b>Projects:</b> VINYAAN (AI+Space), SafeSignal, CloudCast
 
 ---
 
@@ -47,17 +41,10 @@
 
 ## 🚀 Featured Projects
 
-> **VINYAAN**  
-> <sub>AI-powered Climate & Space Learning Platform</sub>
-
-> **SafeSignal**  
-> <sub>Emergency Alerting Platform</sub>
-
-> **CloudCast**  
-> <sub>Visualizing ISRO Weather Data</sub>
-
-> **Wikiogram**  
-> <sub>Swipe UI for Wikimedia Commons</sub>
+- <b>VINYAAN</b>: AI-powered Climate & Space Learning Platform
+- <b>SafeSignal</b>: Emergency Alerting Platform
+- <b>CloudCast</b>: Visualizing ISRO Weather Data
+- <b>Wikiogram</b>: Swipe UI for Wikimedia Commons
 
 ---
 
@@ -100,4 +87,4 @@
 
 ---
 
-> <p align="center"><i>"The future belongs to those who believe in the beauty of their dreams."</i></p> 
+<p align="center"><i>"The future belongs to those who believe in the beauty of their dreams."</i></p> 
