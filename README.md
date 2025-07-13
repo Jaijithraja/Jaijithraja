@@ -1,63 +1,58 @@
-<h1 align="center">Hi there, I'm Jaijithraja 👋</h1>
+<h1 align="center">Hey 👋 I'm Jaijithraja C</h1>
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/76626529/3881f507-e358-4db0-a1ff-653fa04f97df" width="200"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
 </p>
-<p align="center">🚀 Aspiring Product Manager @ Microsoft • 🛰️ ISRO Hackathon Finalist • 🧠 Gen AI Builder • 🌍 Open Source Contributor</p>
+<p align="center">
+  🚀 Aspiring Product Manager @ Microsoft • 🛰️ ISRO Hackathon Finalist  
+  👨‍💻 Gen AI & Product Developer • 🌐 Wikipedia & Open Source Contributor
+</p>
 
 
 
 ## 🧠 About Me
 
-I'm a curious builder & community-first leader who believes in tech with purpose.  
-From AI to Space-Tech, I love creating things that solve real-world problems.
+I'm a passionate tech builder who loves turning ideas into impact.
 
-- 🎯 **Goal**: Product Manager at Microsoft
-- 💼 **Leader**: MLSA (Beta) • GDSC • ISOC • IIT Bombay E-Cell Ambassador
-- 💻 **Projects**: VINYAAN • SafeSignal • PitchPolish
-- 🛰️ **Hackathons**: NASA • ISRO • Wiki Hackathon
-- 📚 **Contributor**: Wikipedia • Open Source (GitHub, Wiki)
-
-
-
-## 💻 Tech Stack
+- 🎯 Dreaming of becoming a **PM at Microsoft**
+- 🧠 Focused on **AI, Gen AI, Blockchain, and Space**
+- 🌍 Active in communities: **MLSA**, **GDSC**, **ISOC**, **E-Cell IITB**
+- 🛰️ Finalist at ISRO Hackathon • Ongoing: **NASA Space Apps**, **Samsung Solve**
+- 📚 Contributing to **Wikipedia** & **Open Source Projects**
+- 🛠️ Projects like **VINYAAN**, **SafeSignal**, **PitchPolish**, **CloudCast**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-000?style=flat&logo=python"/>
-  <img src="https://img.shields.io/badge/-C++-000?style=flat&logo=c%2B%2B"/>
-  <img src="https://img.shields.io/badge/-Java-000?style=flat&logo=openjdk"/>
-  <img src="https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript"/>
-  <img src="https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql"/>
-  <img src="https://img.shields.io/badge/-Azure-000?style=flat&logo=microsoftazure"/>
-  <img src="https://img.shields.io/badge/-OpenAI-000?style=flat&logo=openai"/>
-  <img src="https://img.shields.io/badge/-Git-000?style=flat&logo=git"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
 </p>
 
 
 
-## 🧑‍💼 Roles & Communities
+## 🚀 Tech Stack
 
-| Role | Org |
-|------|-----|
-| 👨‍🎓 Microsoft Learn Student Ambassador (Beta) | Microsoft |
-| 🔥 Unofficial GDSC Lead | Google |
-| 🚀 Campus Ambassador | IIT Bombay E-Cell |
-| 🌐 ISOC Intern + Member | Internet Society |
-| 📚 Wikipedia Contributor | Wikimedia |
-| 🌍 Open Source Contributor | GitHub |
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql)
+![Azure](https://img.shields.io/badge/-Azure-000?style=flat&logo=microsoftazure)
+![OpenAI](https://img.shields.io/badge/-OpenAI-000?style=flat&logo=openai)
+![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
 
 
 
-## 🏆 Hackathons & Highlights
+## 🏆 Highlights & Achievements
 
-- 🛰️ **ISRO Immersion Challenge** — *Top 8 Finalist*  
-- 🌌 **NASA Space Apps Challenge** — *Ongoing*  
-- 🏅 **Wiki Hackathon** — *Runner-up*  
-- 🛡️ **Salesforce x 1M1B Internship** — *Selected*  
-- 🔥 **StartupTN Top 5** — *Pitch Winner*
+| Category | Highlights |
+|---------|------------|
+| 🛰️ Hackathons | ISRO Finalist • NASA Challenge • Wiki Runner-up |
+| 🎤 Public Speaking | Hosted sessions, pitched at TiE, StartupTN |
+| 🌍 Leadership | MLSA Beta • GDSC Lead (Unofficial) • E-Cell Ambassador |
+| 🛠️ Projects | VINYAAN • SafeSignal • CloudCast • PitchPolish |
+| 🌐 Contributor | Wikipedia, GitHub (Open Source) |
+| 🎓 Learning | Gen AI • PM Thinking • Cloud • Blockchain |
 
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/76626529/c55c67ff-c8b2-4d04-8531-18c7f0672df8" width="250"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
 </p>
 
 
@@ -65,13 +60,13 @@ From AI to Space-Tech, I love creating things that solve real-world problems.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaijithraja&show_icons=true&theme=dark" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaijithraja&theme=dark" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaijithraja&show_icons=true&theme=radical" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaijithraja&theme=radical" width="47%"/>
 </p>
 
 
 
-## 🌐 Let's Connect
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/jaijithraja-c-483bb7318">
@@ -85,10 +80,10 @@ From AI to Space-Tech, I love creating things that solve real-world problems.
   </a>
 </p>
 
-
-
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/76626529/4c0d3eaa-e80c-4d9b-9109-d6c2276e97d1" width="300"/>
+  <img src="https://media.giphy.com/media/6tHy8UAbv3zgs/giphy.gif" width="250"/>
 </p>
 
-<p align="center"><i>"Building with purpose. Leading with vision. Powered by community."</i></p>
+
+
+<p align="center"><i>"Building with vision, powered by passion, grounded in community."</i></p>
