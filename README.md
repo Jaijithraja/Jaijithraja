@@ -1,7 +1,7 @@
 <!-- Profile README for Jaijithraja C -->
 
 <p align="center">
-  <img src="https://github.com/Jaijithraja/Jaijithraja/assets/your-banner-image.png" alt="Jaijithraja C Banner" width="100%"/>
+  
 </p>
 
 <h1 align="center">Hi, I'm Jaijithraja C</h1>
