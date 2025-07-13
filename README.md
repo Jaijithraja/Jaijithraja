@@ -4,10 +4,6 @@
   <img src="https://github.com/Jaijithraja/Jaijithraja/assets/your-banner-image.png" alt="Jaijithraja C Banner" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120"/>
-</p>
-
 <h1 align="center">Hi, I'm Jaijithraja C</h1>
 
 <p align="center">
@@ -49,11 +45,6 @@
 - <b>SafeSignal</b>: Emergency Alerting Platform
 - <b>CloudCast</b>: Visualizing ISRO Weather Data
 - <b>Wikiogram</b>: Swipe UI for Wikimedia Commons
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="180"/>
-</p>
 
 ---
 
