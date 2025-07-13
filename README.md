@@ -5,7 +5,7 @@
   
 </p>
 
-<h1 align="center">Hi, I'm Jaijithraja C</h1>
+<h1 align="center">Hi, I'm Jaijithraja !</h1>
 
 <p align="center">
   <b>Aspiring Product Manager @ Microsoft & Tech Founder</b><br/>
