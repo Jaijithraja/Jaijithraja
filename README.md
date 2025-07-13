@@ -1,33 +1,64 @@
 <!-- Profile README for Jaijithraja C -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Gen%20AI%20Developer-blueviolet?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-brightgreen?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Community%20Builder-orange?style=flat-square"/>
+  <img src="https://github.com/Jaijithraja/Jaijithraja/assets/your-banner-image.png" alt="Jaijithraja C Banner" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120"/>
 </p>
 
 <h1 align="center">Hi, I'm Jaijithraja C</h1>
 
 <p align="center">
   <b>Aspiring Product Manager @ Microsoft & Tech Founder</b><br/>
-  <span>Microsoft Learn Student Ambassador (Beta) | GDSC (Unofficial Lead) | E-Cell IIT Bombay Ambassador</span>
+  <img src="https://img.shields.io/badge/Gen%20AI%20Developer-blueviolet?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-brightgreen?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Community%20Builder-orange?style=flat-square"/>
+</p>
+
+<p align="center">
+  <i>AI & Gen AI | Product Management | Space Tech | Open Source</i>
 </p>
 
 ---
 
 ## 🏆 Highlights
 
-- Top 10 Finalist, <b>ISRO Immersion Hackathon</b>
-- Runner-Up, <b>Wiki Hackathon</b>
-- Contributor to <b>Wikimedia Commons</b> & Open Source
-- Projects: <b>VINYAAN</b> (climate+space), <b>SafeSignal</b>, <b>CloudCast</b>
-- Intern at <b>ISOC</b>; Upcoming: <b>Viswam.AI</b>, <b>Salesforce 1M1B</b>
-- Registered: <b>NASA Space Apps</b>, <b>Samsung Solve for Tomorrow</b>, <b>TiE U</b>
+- <b>ISRO Immersion Hackathon</b> – Top 10 Finalist
+- <b>Wiki Hackathon</b> – Runner-Up
+- <b>StartupTN</b> – Top 5 Winner
+- <b>Open Source Contributor</b> (GitHub, Wikimedia Commons)
+- <b>Projects:</b> VINYAAN (AI+Space), SafeSignal, CloudCast
+
+---
+
+## 👑 Leadership & Ambassador Roles
+
+- Microsoft Learn Student Ambassador (Beta)
+- E-Cell, IIT Bombay – Campus Ambassador
+- GDSC (Unofficial Lead)
+- ISOC Member (Internet Society)
+- Wiki Contributor (Wikimedia)
+
+---
+
+## 🚀 Featured Projects
+
+- <b>VINYAAN</b>: AI-powered Climate & Space Learning Platform
+- <b>SafeSignal</b>: Emergency Alerting Platform
+- <b>CloudCast</b>: Visualizing ISRO Weather Data
+- <b>Wikiogram</b>: Swipe UI for Wikimedia Commons
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="180"/>
+</p>
 
 ---
 
 ## 🧰 Tech Stack
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -35,7 +66,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -57,9 +88,11 @@
 
 ## 📬 Contact
 
-- <b>GitHub:</b> [Jaijithraja](https://github.com/Jaijithraja)
-- <b>LinkedIn:</b> [jaijithraja-c-483bb7318](https://linkedin.com/in/jaijithraja-c-483bb7318)
-- <b>Email:</b> jaijith1808@gmail.com
+<p align="center">
+  <a href="https://github.com/Jaijithraja"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/jaijithraja-c-483bb7318"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:jaijith1808@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
